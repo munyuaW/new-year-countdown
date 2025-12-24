@@ -22,4 +22,4 @@ This project is a simple countdown timer that counts down to the New Year. It di
 
 ## Usage
 
-View live site: [New Year Countdown](https://munyuaW.github.io/new-year-countdown/)
+View live site: [New Year Countdown](https://munyuaw.github.io/new-year-countdown/)
